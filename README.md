@@ -1,6 +1,6 @@
 # DeFi Kingdom Clone on Avalanche Metacrafters Project
 
-![Avalanche Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Avalanche_logo.svg/1200px-Avalanche_logo.svg.png)
+![Avalanche Logo](https://cdn.prod.website-files.com/632993e1d1acbfa5635afd0b/6351544c2e41652a8bf6a2af_Logo%20Full%20Red.svg)
 
 Welcome to the DeFi Kingdom Clone project! This project guides you through creating a decentralized finance (DeFi) game inspired by DeFi Kingdoms, built on the Avalanche network. In this game, players can collect, build, and battle using digital assets, earning rewards through various activities.
 
